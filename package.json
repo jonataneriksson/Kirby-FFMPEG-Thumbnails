@@ -1,0 +1,8 @@
+{
+  "name": "ffmeg",
+  "description": "Kirby FFMEP Video Thumbs",
+  "author": "Jonatan Eriksson <jonatan@tsto.org>",
+  "version": "0.0.1",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
