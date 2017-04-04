@@ -1,6 +1,6 @@
 {
-  "name": "ffmeg",
-  "description": "Kirby FFMEP Video Thumbs",
+  "name": "ffmpeg",
+  "description": "Kirby FFMPEG Video Thumbnail Generator",
   "author": "Jonatan Eriksson <jonatan@tsto.org>",
   "version": "0.0.1",
   "type": "kirby-plugin",
